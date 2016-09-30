@@ -10,6 +10,7 @@ You can find a few machine learning projects including source code and explanati
 Most of source code is written in Python and R.
 
 ### Links
-LinkedIn: www.linkedin.com/in/andreiionutdamian
-FaceBook: https://www.facebook.com/andrei.ionut.damian
-RPubs: https://rpubs.com/andrei_damian
+
+ - LinkedIn: www.linkedin.com/in/andreiionutdamian
+ - FaceBook: https://www.facebook.com/andrei.ionut.damian
+ - RPubs: https://rpubs.com/andrei_damian
