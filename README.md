@@ -6,7 +6,7 @@ Serial entrepreneur "obsessed" with tech start-ups based on Data Science, Artifi
 
 ### My projects on GitHub:
 
-You can find a few machine learning projects including source code and explanations here: https://github.com/andreidi
+You can find a few machine learning projects including source code and explanations here: https://github.com/ai-damian
 Most of source code is written in Python and R.
 
 ### Links
